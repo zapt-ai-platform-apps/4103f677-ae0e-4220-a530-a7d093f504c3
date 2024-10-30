@@ -24,7 +24,10 @@ The **New Born Name Finder** is an app designed to help parents find the perfect
    - Review the list of suggested names.
    - If you're not satisfied or want more options, you can adjust your preferences and generate new names.
 
-5. **Responsive Design**:
+5. **Dark Theme**:
+   - The app features a sleek **dark theme** to make your browsing experience comfortable, especially in low-light environments.
+
+6. **Responsive Design**:
    - The app is designed to be responsive and user-friendly on all devices, whether you're on a desktop, tablet, or smartphone.
 
 ## Example User Journey
@@ -47,6 +50,7 @@ The **New Born Name Finder** is an app designed to help parents find the perfect
 - Feel free to use any combination of preferences. The more specific you are, the more tailored the suggestions will be.
 - The app does not require any sign-in or authentication to use.
 - All features are free to use.
+- The dark theme enhances readability and is easier on the eyes, especially during nighttime.
 
 ## External Services Used
 
